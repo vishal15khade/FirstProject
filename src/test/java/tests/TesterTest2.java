@@ -22,6 +22,14 @@ public class TesterTest2{
 		
 	}
 	
+	@Test
+	public void test11()
+	{
+		Assert.assertTrue(true);
+		System.out.println("test11 passed");
+		
+	}
+	
 	
 
 }
