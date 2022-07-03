@@ -22,6 +22,13 @@ public class NewClass{
 		
 	}
 	
+	@Test
+	public void extraTest()
+	{
+		Assert.assertTrue(true);
+		System.out.println("ExtraTest passed");
+	}
+	
 	
 
 }
