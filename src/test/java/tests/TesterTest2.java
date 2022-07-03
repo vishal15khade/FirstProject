@@ -3,30 +3,31 @@ package tests;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-public class NewClass{
+public class TesterTest2{
 	
 	
 	@Test
-	public void test5()
+	public void test9()
 	{
 		Assert.assertTrue(true);
-		System.out.println("test5 passed");
+		System.out.println("test9 passed");
 	}
 	
 	
 	@Test
-	public void test6()
+	public void test10()
 	{
 		Assert.assertTrue(true);
-		System.out.println("test6 passed");
+		System.out.println("test10 passed");
 		
 	}
 	
 	@Test
-	public void extraTest()
+	public void test11()
 	{
 		Assert.assertTrue(true);
-		System.out.println("ExtraTest passed");
+		System.out.println("test11 passed");
+		
 	}
 	
 	
